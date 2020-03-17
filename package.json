@@ -1,9 +1,9 @@
 {
-  "name": "react-linkify",
+  "name": "react-linkify-nofuzzy",
   "version": "1.0.0-alpha",
-  "description": "React component to parse links (urls, emails, etc.) in text into clickable links",
-  "homepage": "http://tasti.github.io/react-linkify/",
-  "author": "Tasti Zakarie",
+  "description": "React component to parse links but ignore links without http(s) based on (this is react-linkify with one small modification)",
+  "homepage": "https://github.com/martinseanhunt/react-linkify",
+  "author": "Martin Hunt",
   "license": "MIT",
   "main": "dist/index.js",
   "types": "index.d.ts",
